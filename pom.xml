@@ -15,6 +15,7 @@
     <name>KHAN [monitoring] API</name>
 
     <build>
+        <finalName>${artifactId}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
