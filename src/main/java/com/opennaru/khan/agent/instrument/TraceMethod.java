@@ -15,7 +15,7 @@ import java.lang.annotation.Target;
  * Just place the @TraceMethod annotation on each target method.
  *
  * @Since KHAN [montoring] 1.3.0-8
- * @Author Junshik Jeon(service@opennaru.com)
+ * @Author Junshik Jeon(jjeon@opennaru.com)
  */
 @Target({java.lang.annotation.ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)
